@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="GroupSort">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/GroupSort.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
